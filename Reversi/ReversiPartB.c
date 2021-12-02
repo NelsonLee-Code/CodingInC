@@ -9,7 +9,7 @@
 #include <stdlib.h>
 #include <stdbool.h>
 #include <time.h>
-#include "project_reversi_skeleton.h" 
+#include "ProjectReversiSkeleton.h" 
 #include <string.h>
 #include "ReversiPart2Lib.h"
 
